@@ -17,10 +17,12 @@ My Work on Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/esfahanjones/Leetcode_session/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/esfahanjones/Leetcode_session/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/esfahanjones/Leetcode_session/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/esfahanjones/Leetcode_session/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/esfahanjones/Leetcode_session/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -46,4 +48,8 @@ My Work on Leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/esfahanjones/Leetcode_session/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/esfahanjones/Leetcode_session/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
