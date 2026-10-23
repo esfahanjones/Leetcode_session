@@ -7,6 +7,7 @@ My Work on Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/esfahanjones/Leetcode_session/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/esfahanjones/Leetcode_session/tree/master/0004-median-of-two-sorted-arrays) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/esfahanjones/Leetcode_session/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Bit Manipulation
 |  |
@@ -25,4 +26,12 @@ My Work on Leetcode
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/esfahanjones/Leetcode_session/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/esfahanjones/Leetcode_session/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/esfahanjones/Leetcode_session/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
